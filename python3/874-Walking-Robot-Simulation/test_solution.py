@@ -3,7 +3,7 @@
 import unittest
 from solution import Solution
 
-class TestRomanToInt(unittest.TestCase):
+class TestWalkingRobotSimulation(unittest.TestCase):
 
     def test_input_type(self):
         # Validate commands type
